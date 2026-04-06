@@ -1,3 +1,4 @@
+``` python
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
@@ -120,3 +121,4 @@ log_text.place(x=20, y=200)
 
 # 运行主循环
 root.mainloop()
+```
